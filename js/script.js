@@ -2,3 +2,5 @@
 const shoppingList = ['Riso', 'Pasta', 'Pane', 'Cereali', 'Latte', 'Pollo']
 //2-Creo la variabile che conterrà la lista nel documento HTML
 const listElement = document.getElementById('lista-spesa')
+//3-Creo la variabile che conterrà l'ul
+let list = `<ul>`
