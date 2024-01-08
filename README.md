@@ -7,3 +7,11 @@ Se abbiamo difficoltà con lo stampare in pagina, proviamo prima a stampare col 
 
 
 
+
+1-Creo la variabile array con tutti gli elementi della lista
+2-Creo la variabile che conterrà la lista nel documento HTML
+3-Creo la variabile che conterrà l'ul
+4-Creo la variabile i 
+5-Utilizzo il ciclo while per creare tutti gli elementi della lista e inserirli nell ul 
+6-Chiudo la variabile che contiene la lista
+7-Stampo in pagina la lista
