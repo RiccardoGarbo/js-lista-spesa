@@ -12,3 +12,5 @@ while (i < shoppingList.length) {
 }
 //6-Chiudo la variabile che contiene la lista
 list += `</ul>`
+//7-Stampo in pagina la lista
+listElement.innerHTML = list
