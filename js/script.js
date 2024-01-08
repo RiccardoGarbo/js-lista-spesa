@@ -10,3 +10,5 @@ while (i < shoppingList.length) {
     list += `<li>${shoppingList[i]}</li>`
     i++;
 }
+//6-Chiudo la variabile che contiene la lista
+list += `</ul>`
